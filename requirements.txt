@@ -1,0 +1,16 @@
+comtypes
+faster-whisper
+numpy
+ollama
+onnxruntime
+openwakeword
+pillow
+psutil
+pyautogui
+pycaw
+pyperclip
+piper-tts
+pywinauto
+pytesseract
+scipy
+sounddevice
